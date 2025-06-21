@@ -5,7 +5,6 @@ COMPANY_NAME = "Tesla Inc"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=COMPANY_NAME&interval=5min&apikey=0CDA2IATNBQB8Q5Z"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-api = "0CDA2IATNBQB8Q5Z"
 
 ## STEP 1: Use https://www.alphavantage.co/documentation/#daily
 # When stock price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
