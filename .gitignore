@@ -3,3 +3,6 @@ node_modules/
 .idea/
 *.pyc
 __pycache__/
+.env/
+# Ignore Python virtual environments
+Stock Market Exchange\.env\
