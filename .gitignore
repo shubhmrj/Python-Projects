@@ -5,4 +5,5 @@ node_modules/
 __pycache__/
 .env/
 # Ignore Python virtual environments
-Stock Market Exchange/.env/
+Stock_Market_Exchange/.env/
+Stock_Market_Exchange/Easy/.env
