@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1156734b-89aa-4b88-b2b1-a1c4fdfe60f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Python Codes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AI Based resume Builder Tool/.idea/AI Based resume Builder Tool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dictionary/.idea/Project 04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/.idea/Famous Arcade Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/generateball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hangman Code/.idea/project 05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hirst painting project/.idea/Hirst painting project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hirst painting project/hirst.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/Indian Map.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/Indian Map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/indian_capital.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Aang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Appa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Katara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Momo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Sokka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Toph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Zuko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/raushan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/ritik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/rohan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/sankalp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/shailesh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/shubham prajapati.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/supriya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/leetcode (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/.idea/Snake Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/HIGHSCORE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/pr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/.idea/Turtle  Crossingm Capstone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle Graphics/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle Graphics/.idea/Turtle Graphics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Turtle Race Project/.idea/Turtle Race Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working With Csv File/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working With Csv File/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Working With Csv File/trial.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/coffe machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../os module practise/.idea/os module practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nTz98LecgDAcnWxlKlN0WWZR0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/OneDrive/Desktop/Python Codes/list compreshion&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="US States GAMES" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1156734b-89aa-4b88-b2b1-a1c4fdfe60f7" name="Changes" comment="" />
+      <created>1729011699862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729011699862</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d17a5a97-0d03-4432-ae24-def9b4a76953" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hirst painting project/hirst.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/leetcode (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake Game/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/coffe machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coffe machine/money_machine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jPn6n2KewaxxBQJfDzrtQ7dnfE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/OneDrive/Desktop/Python Codes/Turtle Graphics&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Turtle Graphics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d17a5a97-0d03-4432-ae24-def9b4a76953" name="Changes" comment="" />
+      <created>1721297408040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721297408040</updated>
+    </task>
+    <servers />
+  </component>
+</project>
