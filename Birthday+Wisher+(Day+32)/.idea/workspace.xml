@@ -5,111 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92412a7f-da78-4497-8c81-281020d362b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Python Codes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AI Based resume Builder Tool/.idea/AI Based resume Builder Tool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API Project/date_time api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../API Project/issoverhead-start/trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionary/.idea/Project 04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/.idea/Famous Arcade Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/generateball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Famous Arcade Game/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hangman Code/.idea/project 05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hirst painting project/.idea/Hirst painting project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hirst painting project/hirst.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/.idea/Indian Capital Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/Indian Map.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/Indian Map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Indian Capital Game/indian_capital.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Aang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Appa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Katara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Momo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Sokka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Toph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Uncle Iroh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/Zuko.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/karan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/raushan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/ritik.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/rohan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/sankalp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/shailesh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/shailesk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/shubham prajapati.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/sonali.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mail Merge Project Start/Output/ReadyToSend/supriya.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My_km_to_coverter/.idea/My_km_to_coverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/NATO Alphabet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NATO Alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PYTHON/QUESTION/question and projects/leetcode (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Password Manager/.idea/Password Manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/.idea/Snake Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/HIGHSCORE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/pr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Snake Game/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Timer Project/.idea/Timer Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tkinter Library/.idea/Tkinter Library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tkinter Library/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tkinter Library/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/.idea/Turtle  Crossingm Capstone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle  Crossingm Capstone/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle Graphics/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle Graphics/.idea/Turtle Graphics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Turtle Race Project/.idea/Turtle Race Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../US States GAMES/.idea/US States GAMES.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../US States GAMES/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Work Shop/.idea/Work Shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working With Csv File/.idea/Working With Csv File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working With Csv File/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working With Csv File/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working With Csv File/multiprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Working With Csv File/trial.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/coffe machine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coffe machine/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flash card capstone project(day 31)/trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list compreshion/.idea/list compreshion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list compreshion/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list compreshion/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../list compreshion/new.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../os module practise/.idea/os module practise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student mangement/.idea/student mangement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student mangement/qodana.sarif.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student mangement/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/.idea/webscraping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscraping/table_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/send_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shubhmrj&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shubhmrj/pythonproject.git&quot;,
+    &quot;accountId&quot;: &quot;4031434e-9a58-4e06-a2c2-0ac3742a72c5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -134,24 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.send_email.executor": "Run",
-    "Python.trial.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Python Codes/API Project",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.send_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trial.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Python Codes/API Project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>

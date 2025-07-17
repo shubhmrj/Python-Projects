@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2facd7d-617f-46ac-9d03-524efc35b9f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Timer Project/.idea/Timer Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Timer Project/.idea/Timer Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student mangement/.idea/student mangement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/student mangement/.idea/student mangement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday+Wisher+(Day+32)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Birthday+Wisher+(Day+32)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday+Wisher+(Day+32)/Birthday Wisher (Day 32) start/send_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday+Wisher+(Day+32)/trial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>

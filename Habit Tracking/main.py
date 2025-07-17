@@ -1,8 +1,11 @@
 import requests
 from datetime import datetime
+import os
+import dotenv
+dotenv.load_dotenv()
 
 pixela_endpoint = "https://pixe.la/v1/users"
-Token = "58e6d7c1-8e5a-4b4b-8e6d-586e5a4b4b4b"
+Token = os.getenv("TOKEN")
 User= "shubhmrj"
 user_params = {
     "token": Token,
@@ -42,8 +45,9 @@ update_endpoint = f"{pixel_endpoint}/{today}"
 upddate_config = {
     "quantity": "85"
 }
-# response=requests.put(url=update_endpoint, json=upddate_config , headers=headers)
-# print(response.text)
+#
+response=requests.put(url=update_endpoint, json=upddate_config , headers=headers)
+print(response.text)
 
 delete_endpoint = f"{pixel_endpoint}/{today}"
 response=requests.delete(url=delete_endpoint , headers=headers)
