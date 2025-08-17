@@ -26,11 +26,13 @@
 
 # Projects
 
+<div align="center">
+
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead style="background-color: #0f0e0eff;">
     <tr>
-      <th style="width:5%;">S. No.</th>
-      <th style="width:50%;">Title</th>
+      <th style="width:10%;">S. No.</th>
+      <th style="width:80%;">Title</th>
       <th style="width:20%;">Link</th>
     </tr>
   </thead>
@@ -97,6 +99,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 
 ### 1. Advanced Web Scraper
