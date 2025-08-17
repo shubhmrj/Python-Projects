@@ -32,7 +32,7 @@
   <thead style="background-color: #0f0e0eff;">
     <tr>
       <th style="width:10%;">S. No.</th>
-      <th style="width:80%;">Title</th>
+      <th style="width:150%; allign:center;">Title</th>
       <th style="width:20%;">Link</th>
     </tr>
   </thead>
