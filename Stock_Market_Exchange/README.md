@@ -2,54 +2,32 @@
 
 This directory contains Python projects focused on stock market data analysis, news aggregation, and SMS notifications using various APIs.
 
-## Repository Structure
+## Subdirectories
 
-- **Stock_Market_Exchange/**  
-  Contains projects related to stock market data analysis, news fetching, and SMS notifications using APIs such as Alpha Vantage, NewsAPI, and Twilio.
-  - **Easy/**:  
-    Beginner-level implementation for fetching stock prices and related news articles.
-  - **Intermediate/**:  
-    Intermediate-level project with more advanced logic for stock and news integration.
-  - **Hard/**:  
-    Advanced project structure for comprehensive stock market and news analysis.
-- Other directories may contain additional Python projects or scripts.
+- **Easy/**:  
+  Beginner-level project for fetching stock prices and related news articles.
+- **Intermediate/**:  
+  Intermediate-level project with enhanced logic for integrating stock and news APIs.
+- **Hard/**:  
+  Advanced project for comprehensive stock market and news analysis, including SMS notifications.
 
-## Getting Started
+## Features
 
-1. **Clone the repository:**
-   ```sh
-   git clone <repository-url>
-   cd "Python Codes"
-   ```
-2. **Set up virtual environment (optional but recommended):**
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. **Install dependencies:**  
-   Each project may have its own requirements. Check for a `requirements.txt` file in the respective directory and install with:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. **Set up environment variables:**  
-   Some projects require API keys. Create a `.env` file in the project directory and add your API credentials as shown in the sample `.env` files.
+- Fetch real-time stock prices using the Alpha Vantage API.
+- Retrieve latest news articles related to a company using NewsAPI.
+- Send SMS alerts for significant stock price changes using Twilio (in advanced projects).
 
 ## Requirements
 
 - Python 3.x
-- `requests` library
-- `python-dotenv` for environment variable management
-- API keys for [Alpha Vantage](https://www.alphavantage.co/), [NewsAPI](https://newsapi.org/), and [Twilio](https://www.twilio.com/) (for relevant projects)
+- `requests`
+- `python-dotenv`
+- API keys for Alpha Vantage, NewsAPI, and Twilio (for relevant features)
 
 ## Usage
 
-Navigate to the desired project directory and run the main script. For example:
-```sh
-cd Stock_Market_Exchange/Easy
-python main.py
-```
-Follow the instructions in each project's README or comments for specific usage details.
+Navigate to the desired subdirectory and follow the instructions in its `README.md` or main script.
 
 ## License
 
-This repository is provided for educational purposes. Please check individual project directories for specific license information if applicable.
+For educational purposes only.
