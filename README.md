@@ -45,57 +45,57 @@
     <tr>
       <td>2</td>
       <td>API Project</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td><a href="\Python Codes\API Project">⬆️</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>Birthday Wisher</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td><a href="\Birthday Wisher">⬆️</a></td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Data Processing</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>Coffe machine</td>
+      <td><a href="\coffe machine">⬆️</a></td>
     </tr>
     <tr>
       <td>5</td>
-      <td>ML Model</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>Cyber security Project</td>
+      <td><a href="\Cyber security Project">⬆️</a></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Weather Dashboard</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>CyberQuestGame</td>
+      <td><a href="\CyberQuestGame">⬆️</a></td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>AI Based Resume Builder</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>7</td>
+      <td>Dictionary</td>
+      <td><a href="\Dictionary">⬆️</a></td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>API Project</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>8</td>
+      <td>Famous Arcade Game</td>
+      <td><a href="\Famous Arcade Game">⬆️</a></td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Birthday Wisher</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>9</td>
+      <td>Error exception json data improving</td>
+      <td><a href="\Error exception json data improving(day 30)">⬆️</a></td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Data Processing</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>10</td>
+      <td>flash card capstone project</td>
+      <td><a href="\flash card capstone project(day 31)">⬆️</a></td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>ML Model</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>11</td>
+      <td>flight deals</td>
+      <td><a href="\flight deals">⬆️</a></td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Weather Dashboard</td>
-      <td><a href="\AI Based resume Builder Tool">⬆️</a></td>
+      <td>12</td>
+      <td>ML Models</td>
+      <td><a href="\ML Models">⬆️</a></td>
     </tr>
   </tbody>
 </table>
