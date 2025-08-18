@@ -28,35 +28,6 @@
 
 # Projects
 
-<div align="center">
-
-<table style="border-collapse: collapse; width: 90%; text-align: center;">
-  <thead style="background-color: #1e1e1e; color: #ffffff;">
-    <tr>
-      <th style="width:10%; padding: 8px; border: 1px solid #444;">S. No.</th>
-      <th style="width:70%; padding: 8px; border: 1px solid #444;">Title</th>
-      <th style="width:20%; padding: 8px; border: 1px solid #444;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #444;">1</td>
-      <td style="border: 1px solid #444;">AI Based Resume Builder</td>
-      <td style="border: 1px solid #444;"><a href="\AI Based resume Builder Tool">⬆️</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #444;">2</td>
-      <td style="border: 1px solid #444;">API Project</td>
-      <td style="border: 1px solid #444;"><a href="\Python Codes\API Project">⬆️</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #444;">3</td>
-      <td style="border: 1px solid #444;">Birthday Wisher</td>
-      <td style="border: 1px solid #444;"><a href="\Birthday Wisher">⬆️</a></td>
-    </tr>
-    <!-- Repeat same format for other rows -->
-  </tbody>
-</table>
 
 </div>
 
