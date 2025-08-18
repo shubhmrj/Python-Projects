@@ -21,7 +21,6 @@
 
 ---
 
-## Projects
 
 
 # Projects
@@ -96,6 +95,156 @@
       <td>12</td>
       <td>ML Models</td>
       <td><a href="\ML Models">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Habit Tracking</td>
+      <td><a href="\Habit Tracking">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Hangman Code</td>
+      <td><a href="\Hangman Code">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Hirst painting project</td>
+      <td><a href="\Hirst painting project">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Indian Capital Game</td>
+      <td><a href="\Indian Capital Game">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>list compreshion</td>
+      <td><a href="\list compreshion">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Mail Merge Project</td>
+      <td><a href="\Mail Merge Project Start">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Mail Merge Project ~ Part 2</td>
+      <td><a href="\Mail+Merge+Project+Start/.idea">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Password Manager Storage With GUI</td>
+      <td><a href="\Password Manager">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>My_km_to_coverter_GUI</td>
+      <td><a href="\My_km_to_coverter">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>NATO Alphabet Game</td>
+      <td><a href="\NATO Alphabet">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Quiz</td>
+      <td><a href="\Quiz">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Rain_Alert_GUI_Whatsapp_Notification</td>
+      <td><a href="\Rain_Alert Day 35">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>resume builder</td>
+      <td><a href="\resume builder">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Snake Game</td>
+      <td><a href="\Snake Game">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Stock_Market_Exchange</td>
+      <td><a href="\Stock_Market_Exchange">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>student mangement</td>
+      <td><a href="\student mangement">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Timer Project</td>
+      <td><a href="\Timer Project">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Tkinter Library</td>
+      <td><a href="\Tkinter Library">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>Turtle  Crossingm Capstone</td>
+      <td><a href="\Turtle  Crossingm Capstone">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>Turtle Graphics</td>
+      <td><a href="\Turtle Graphics">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>Turtle Race Project</td>
+      <td><a href="\Turtle Race Project">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>Country States GAMES</td>
+      <td><a href="\Country States GAMES">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>WebScrapping_with_Beautifulshop</td>
+      <td><a href="\WebScrapping_with_Beautifulshop">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>Work Shop</td>
+      <td><a href="\Work Shop">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Working With Csv File</td>
+      <td><a href="\Working With Csv File">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Workout_tracking_using_googlesheet</td>
+      <td><a href="\Workout_tracking_using_googlesheet">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td></td>
+      <td><a href="\">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td></td>
+      <td><a href="\">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td></td>
+      <td><a href="\">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td></td>
+      <td><a href="\">⬆️</a></td>
     </tr>
   </tbody>
 </table>
