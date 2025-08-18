@@ -13,3 +13,5 @@ Birthday+Wisher+(Day+32)/.env
 Stock_Market_Exchange/.env
 Stock_Market_Exchange/Easy/.env
 flight deals/flight-deals-start/.env
+Wheather/.env
+*.env/

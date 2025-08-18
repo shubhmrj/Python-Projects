@@ -251,6 +251,11 @@
       <td>Calculator</td>
       <td><a href="\calculator.py">⬆️</a></td>
     </tr>
+    <tr>
+      <td>44</td>
+      <td>Weather Visulizatio with future prediction and Analysis of Weather</td>
+      <td><a href="\Wheather">⬆️</a></td>
+    </tr>
   </tbody>
 </table>
 </div>
