@@ -254,7 +254,7 @@
     <tr>
       <td>44</td>
       <td>Weather Visulizatio with future prediction and Analysis of Weather</td>
-      <td><a href="\Wheather">⬆️</a></td>
+      <td><a href="\Wheather Apk">⬆️</a></td>
     </tr>
   </tbody>
 </table>
