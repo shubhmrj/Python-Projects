@@ -1,0 +1,22 @@
+{
+    "": {
+        "password": "",
+        "balance": 200
+    },
+    "123456": {
+        "password": "123456",
+        "balance": 100
+    },
+    "123": {
+        "name": "Shubham Raj",
+        "account_number": "46322",
+        "password": "123456",
+        "balance": 0.0
+    },
+    "shubh": {
+        "name": "Shubham Singh",
+        "account_number": "6584910737",
+        "password": "123",
+        "balance": 0.0
+    }
+}

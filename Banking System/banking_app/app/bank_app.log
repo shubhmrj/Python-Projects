@@ -1,0 +1,27 @@
+2025-04-18 23:55:52,801 - INFO - User '' registered successfully.
+2025-04-18 23:55:55,878 - INFO - Deposited 100 to ''. New balance: 100
+2025-04-18 23:56:00,906 - INFO - Deposited 100 to ''. New balance: 200
+2025-04-19 00:00:31,063 - INFO - User '123456' registered successfully.
+2025-04-19 00:00:42,716 - INFO - Deposited 100 to '123456'. New balance: 100
+2025-04-19 00:05:23,939 - INFO - User '123' registered successfully.
+2025-04-19 00:05:31,976 - INFO - Deposited 200.0 to '123'.
+2025-04-19 00:05:35,077 - INFO - Withdrew 200.0 from '123'.
+2025-04-19 00:06:55,020 - INFO - User '123' logged in.
+2025-04-19 00:09:29,392 - INFO - User 'shubh' registered successfully.
+2025-04-19 00:09:42,277 - INFO - Deposited 5000.0 to 'shubh'.
+2025-04-19 00:09:46,333 - INFO - Withdrew 5000.0 from 'shubh'.
+2025-04-19 00:09:54,537 - INFO - Deposited 50000000000000.0 to 'shubh'.
+2025-04-19 00:09:58,058 - INFO - Withdrew 50000000000000.0 from 'shubh'.
+2025-04-19 00:14:26,721 - INFO - User '12525' registered.
+2025-04-19 00:18:19,114 - INFO - User '123' registered.
+2025-04-19 00:18:25,544 - INFO - Deposited 5000.0 to '123'.
+2025-04-19 00:18:28,947 - INFO - Deposited 5000.0 to '123'.
+2025-04-19 00:19:12,974 - INFO - Deposited 2520000.0 to '123'.
+2025-04-23 15:27:01,135 - INFO - User 'shubhamraj' registered.
+2025-04-23 15:27:08,275 - INFO - Deposited 6500000000.0 to 'shubhamraj'.
+2025-05-01 15:28:38,062 - INFO - User 'shubh' registered.
+2025-05-01 15:28:47,000 - INFO - Deposited 50000.0 to 'shubh'.
+2025-05-01 15:28:55,523 - INFO - Withdrew 500.0 from 'shubh'.
+2025-05-02 12:22:33,696 - INFO - User 'prn' registered.
+2025-05-02 12:22:39,049 - INFO - Deposited 50000.0 to 'prn'.
+2025-05-02 12:22:43,848 - INFO - Withdrew 5.0 from 'prn'.

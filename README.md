@@ -228,23 +228,28 @@
     </tr>
     <tr>
       <td>39</td>
-      <td></td>
-      <td><a href="\">⬆️</a></td>
+      <td>Banking System</td>
+      <td><a href="\Banking System">⬆️</a></td>
     </tr>
     <tr>
       <td>40</td>
-      <td></td>
-      <td><a href="\">⬆️</a></td>
+      <td>Logging system</td>
+      <td><a href="\Logging system">⬆️</a></td>
     </tr>
     <tr>
       <td>41</td>
-      <td></td>
-      <td><a href="\">⬆️</a></td>
+      <td>Flask Server part ~1</td>
+      <td><a href="\Flask Server part ~1">⬆️</a></td>
     </tr>
     <tr>
       <td>42</td>
-      <td></td>
-      <td><a href="\">⬆️</a></td>
+      <td>Generate_different_shapes_GUI</td>
+      <td><a href="\Generate_different_shapes_GUI">⬆️</a></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Calculator</td>
+      <td><a href="\calculator.py">⬆️</a></td>
     </tr>
   </tbody>
 </table>

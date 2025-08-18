@@ -1,0 +1,36 @@
+{
+    "users": {
+        "7654": {
+            "username": "shubmrj",
+            "password": "123456789",
+            "account_name": "shubmrj's Account",
+            "account_number": "5214431834",
+            "account_type": "Savings",
+            "balance": 0.0
+        },
+        "7599": {
+            "username": "shubham",
+            "password": "shubham@1234",
+            "account_name": "shubham's Account",
+            "account_number": "7948504434",
+            "account_type": "Savings",
+            "balance": 0.0
+        },
+        "7286": {
+            "username": "shubham",
+            "password": "sssss",
+            "account_name": "shubham's Account",
+            "account_number": "6908911863",
+            "account_type": "Savings",
+            "balance": 0.0
+        },
+        "5682": {
+            "username": "1",
+            "password": "1",
+            "account_name": "1's Account",
+            "account_number": "6803130023",
+            "account_type": "Savings",
+            "balance": 0.0
+        }
+    }
+}
