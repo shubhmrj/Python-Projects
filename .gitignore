@@ -16,3 +16,38 @@ flight deals/flight-deals-start/.env
 Wheather Apk/.env
 *.env/
 Wheather Apk/.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.log
+*.sqlite3
+*.db
+
+# Output / generated files
+Output/
+*.png
+*.jpg
+*.xml
