@@ -7,7 +7,7 @@ from banking import BankAccount, load_users
 class BankingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("banking_app")
+        self.root.title("Banking System with sql")
         self.root.geometry("600x500")
         self.root.resizable(False, False)
 

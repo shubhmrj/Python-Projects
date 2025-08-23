@@ -39,7 +39,7 @@ class BankAccount:
 class BankingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Advanced banking_app")
+        self.root.title("Advanced Banking System with sql")
         self.root.geometry("500x500")
         self.root.resizable(False, False)
 
