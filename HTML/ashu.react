@@ -1,0 +1,45 @@
+import React from "react";
+
+const AshuSinghWebsite = () => {
+  return (
+    <div className="bg-gray-100 min-h-screen flex flex-col items-center py-10">
+      <header className="bg-white shadow-md w-full p-4 flex justify-center">
+        <h1 className="text-2xl font-bold text-gray-800">Ashu Singh</h1>
+      </header>
+      
+      <main className="w-full max-w-4xl flex flex-col items-center px-4">
+        <section className="bg-white shadow-lg rounded-2xl p-6 w-full mt-6">
+          <h2 className="text-xl font-semibold text-gray-800">About Me</h2>
+          <p className="mt-4 text-gray-600">
+            Hi, I am Ashu Singh, a passionate individual who thrives on creativity and innovation. Welcome to my personal website!
+          </p>
+        </section>
+
+        <section className="bg-white shadow-lg rounded-2xl p-6 w-full mt-6">
+          <h2 className="text-xl font-semibold text-gray-800">Projects</h2>
+          <ul className="mt-4 text-gray-600 list-disc pl-5">
+            <li>Project 1: [Description of project]</li>
+            <li>Project 2: [Description of project]</li>
+            <li>Project 3: [Description of project]</li>
+          </ul>
+        </section>
+
+        <section className="bg-white shadow-lg rounded-2xl p-6 w-full mt-6">
+          <h2 className="text-xl font-semibold text-gray-800">Contact</h2>
+          <p className="mt-4 text-gray-600">
+            Email: <a href="mailto:ashu@example.com" className="text-blue-500">ashu@example.com</a>
+          </p>
+          <p className="mt-2 text-gray-600">
+            LinkedIn: <a href="https://linkedin.com/in/ashu-singh" className="text-blue-500">linkedin.com/in/ashu-singh</a>
+          </p>
+        </section>
+      </main>
+
+      <footer className="bg-gray-200 w-full p-4 text-center mt-6">
+        <p className="text-gray-600">&copy; 2025 Ashu Singh. All rights reserved.</p>
+      </footer>
+    </div>
+  );
+};
+
+export default AshuSinghWebsite;
