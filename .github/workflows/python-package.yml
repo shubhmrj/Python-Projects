@@ -1,0 +1,48 @@
+name: Python package
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.10", "3.11"]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Lint with flake8
+      run: |
+        echo "🔍 Checking for null bytes in Python files..."
+        if grep -rl $'\x00' --include="*.py" .; then
+          echo "❌ Found null bytes in Python source files!"
+          exit 1
+        fi
+
+        echo "✅ Running flake8 only on Python files..."
+        # Stop the build on syntax errors/undefined names
+        flake8 --count --select=E9,F63,F7,F82 --show-source --statistics
+        # Style checks (won't fail build)
+        flake8 --count --exit-zero --max-complexity=10 --max-line-length=100 --statistics
+
+    - name: Test with pytest
+      run: |
+        pytest
