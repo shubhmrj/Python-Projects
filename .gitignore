@@ -53,3 +53,28 @@ Output/
 *.xml
 
 *.env
+*.mp4
+*.mov
+*.avi
+# virtual env
+.venv/
+
+# media
+*.mp4
+*.mov
+*.avi
+
+# python junk
+__pycache__/
+*.pyc
+
+# large data / outputs
+*.csv
+*.zip
+*.tar
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+*.env

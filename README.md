@@ -262,6 +262,11 @@
       <td>Weather Visulizatio with future prediction and Analysis of Weather</td>
       <td><a href="\Wheather Apk">⬆️</a></td>
     </tr>
+    <tr>
+      <td>45</td>
+      <td>Amazon Price Tracker</td>
+      <td><a href="\Amzozon Price Tracker">⬆️</a></td>
+    </tr>
   </tbody>
 </table>
 </div>
